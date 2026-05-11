@@ -1,9 +1,13 @@
 ## Hello, I'm Neetika 👋
 
+
 I build practical AI systems that turn messy data, language, and business problems into production-ready ML and GenAI solutions.
+
+
 📍 New York 📧 npanwar0903@gmail.com LinkedIn: https://www.linkedin.com/in/neetika-panwar/ 
 
 About Me 🌐
+
 Senior Data Scientist with 10+ years of experience building production-grade ML, NLP, GenAI, RAG, and multi-agent systems across healthcare, automotive, and enterprise domains, with measurable impact in churn prediction, medical complexity modeling, automation, and business-value retention
 
 Professional Highlights 🌟
